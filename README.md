@@ -27,6 +27,14 @@ Parameters
 |f      |folder      |foldername in kml/Google Earth  |
 |h      |help        |show this help                  |
 
+More Info
+---------
+
+There are some more infos about this script at the Evernote Forum: https://discussion.evernote.com/topic/31155-export-places-to-kml/
+
+Legal Mumbo Jumbo
+-----------------
+
 Google Earth and Evernote are Trademarks of their respective owners.
 
 This script is shared without any support or warranty.
